@@ -18,4 +18,3 @@ Happy coding with LaraStack! 🚀
 
 ---
 
-_This is a sample Readme.md file for the LaraStack Git project. Modify it with real content and explanations related to the DTO Design Pattern as you progress with your lectures and lessons._
